@@ -1,1 +1,1 @@
-# Robustness-Enhancement-of-Machine-Fault-Diagnostic-Models-for-Railway-Applications-through-Data-Aug
+# Robustness-Enhancement-of-Machine-Fault-Diagnostic-Models
