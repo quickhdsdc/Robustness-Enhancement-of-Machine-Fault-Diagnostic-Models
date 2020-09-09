@@ -7,7 +7,7 @@ import pandas as pd
 from sklearn import preprocessing
 #import matplotlib.pyplot as plt
 from scipy import signal  
-from ultis import *          
+from utils import *          
 #=============================================================================#
 ########################## read data: simulation ##############################
 #=============================================================================#            
