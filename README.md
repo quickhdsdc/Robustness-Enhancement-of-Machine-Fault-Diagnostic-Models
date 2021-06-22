@@ -8,4 +8,4 @@ The used Tensorflow version is 1.14.0. Spyder is used for programming and run th
 Three augmentation methods have been implemented: C-DCGAN, SIM-GAN and our MBS-FWFSA.
 Exp_mmd.py measures MMD under different condition variations. ExpA, ExpB and ExpC are the experiments to test the ResNet with different preprocessing methods under different condition variations.  ExpA_aug, ExpB_aug and ExpC_aug are the experiments to test the augmentation methods.
 
-The experiment data
+The experiment data is shared at https://depositonce.tu-berlin.de/.
