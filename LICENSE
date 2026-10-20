@@ -1,0 +1,90 @@
+Dachuan Shi Non-Commercial Research License 1.0
+SPDX-License-Identifier: LicenseRef-Dachuan-Shi-NC-1.0
+Effective date for this distribution: 2026-10-20
+
+Copyright (c) 2026 Dachuan Shi and the respective rights holders.
+
+1. Covered material and authority
+
+This license applies only to original code, documentation and other material
+expressly offered under it by a copyright holder or an authorized licensor
+(the "Licensor"). That material is the "Covered Material". Copyright remains
+with its respective holders. Publication in a repository does not establish
+that its maintainer owns every file. Third-party exclusions and notices in
+LICENSING.md or THIRD_PARTY_NOTICES take priority for the material they identify.
+
+2. Limited non-commercial permission
+
+Subject to all conditions below, you may access, execute, study, reproduce,
+modify and share the Covered Material solely for non-commercial research,
+teaching, learning or personal experimentation. Shared copies and modifications
+must retain this license, existing copyright and attribution notices, a link
+to the source project, and clear identification of your changes. You may not
+offer the Covered Material or your changes under terms that grant commercial
+rights to any copyright controlled by the Licensor.
+
+3. Commercial use is prohibited
+
+No permission is granted for any use intended to obtain commercial advantage,
+generate revenue, support a business activity or develop a commercial product
+or service, whether the benefit is direct, indirect, immediate or anticipated.
+Prohibited uses include, without limitation:
+
+* selling, renting, licensing for a fee, or bundling the Covered Material or
+  substantial portions of it with a commercial product or service;
+* operating paid, advertising-supported or commercially sponsored software,
+  hosted services, APIs, subscriptions, consulting or customer deliverables;
+* commercial deployment, business operations, production, maintenance or
+  internal enterprise tools, even when users are not charged separately;
+* research, development, evaluation, demonstrations, pilots or integration
+  performed for an existing or anticipated commercial product, service,
+  customer engagement or other business purpose;
+* using the Covered Material to train, fine-tune, evaluate or operate models
+  or agents for any of those commercial purposes.
+
+Non-profit, educational, government or research status does not by itself
+authorize commercial use. Research funding or an academic collaboration does
+not create an exception to this prohibition. A proposed commercial use needs
+separate prior written authorization from every applicable rights holder;
+this license itself supplies no such authorization. There is no automatic
+conversion to a commercial, permissive or open-source license after any period.
+
+4. Third-party material and existing rights
+
+This license does not replace or restrict the independent licenses of other
+authors' software, dependencies, fonts, assets, datasets, model weights,
+papers, standards or other third-party material. Retain and comply with their
+notices. Where third-party or other previously granted terms independently
+permit a particular use, this license does not purport to withdraw those rights.
+It does not revoke valid licenses already granted for earlier distributions.
+It also does not restrict statutory rights, copyright exceptions or other
+uses for which the Licensor's permission is not required by applicable law.
+
+5. No additional grants
+
+No trademark, endorsement, confidentiality waiver, access to private data,
+physical equipment authorization or rights to third-party resources are
+provided. No patent license is expressly granted. Public visibility and the
+hosting platform's viewing or forking functions do not grant commercial rights
+to the Covered Material beyond rights independently available under law or
+another valid license.
+
+6. Termination
+
+Permissions under this license terminate if you breach its conditions. After
+termination, stop uses that require these permissions. Reinstatement requires
+the Licensor's written agreement. Termination does not affect independently
+valid third-party licenses or statutory rights.
+
+7. Warranty and liability
+
+To the extent allowed by applicable law, the Covered Material is supplied
+without promises of suitability, accuracy, safety, support or non-infringement.
+You bear the risks of use and must independently validate results and any
+engineering or equipment actions. To that same extent, the Licensor accepts
+no liability for losses, damages or claims arising from the Covered Material
+or its use. Nothing here excludes liability that applicable law forbids the
+parties to exclude.
+
+This is a non-commercial, source-available license. It is not an
+OSI-approved open-source license.
